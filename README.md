@@ -10,6 +10,7 @@ Aspiring Backend Developer with strong interest in building scalable web applica
 - MongoDB, PostgreSQL
 
 ## 💻 Projects
+- Life Tracker App
 - TaxPal – Tax Management System for Freelancers (GoLang Backend Project)
 - Subscription Management System – MERN Stack
 
