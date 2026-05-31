@@ -1,13 +1,21 @@
 # Hi, I'm Gayathri 👋
 
-Aspiring Backend Developer with strong interest in building scalable web applications.
+🎓 B.Tech ECE Student | Generative AI & Machine Learning Specialization
 
-## 🚀 Skills
-- GoLang (Learning)
-- Node.js, Express.js
-- Spring Boot
-- RESTful APIs
-- MongoDB, PostgreSQL
+💻 Aspiring Software Development Engineer (SDE)
+
+🚀 Passionate about Data Structures & Algorithms, Full Stack Development, and building real-world applications.
+
+## 🛠️ Skills
+
+* Java
+* Python
+* Data Structures & Algorithms
+* MERN Stack
+* REST APIs
+* MongoDB
+* Machine Learning
+* Generative AI
 
 ## 💻 Projects
 - Life Tracker App
